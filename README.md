@@ -1,5 +1,5 @@
 # UFO-Sightings
-JavaScript and DOM Manipulation, html, css
+JavaScript and DOM Manipulation, HTML5, CSS3 and D3.js
 
 To see the live file, use the below link:
 
