@@ -42,6 +42,4 @@ Create a web page with JavaScript, HTML5, CSS3 and D3.js to create tables dynami
 
 - - -
 
-### Dataset
-
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+![webpage.png](Images/webpage.png)
