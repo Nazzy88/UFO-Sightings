@@ -2,6 +2,7 @@
 JavaScript and DOM Manipulation, html, css
 
 To see the live file, use the below link:
+
 https://nazzy88.github.io/UFO-Sightings/
 
 ## Background
